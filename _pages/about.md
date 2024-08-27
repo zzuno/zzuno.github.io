@@ -19,15 +19,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My area of interest is Generative Computer Vision, as well as financial techology including Quant.
+
 Currently looking for innovative ideas and building a new thing. Anyone who wants to discuss about it are always welcomed !
 
-<!-- # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 one paper was accepted to ACL2024.
-- *2024.01*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Image Process.(TIP). -->
-<!-- - *2023.06*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Pattern Anal. Mach. Intell.(TPAMI).
-- *2022.08*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Multimedia(TMM).
-- *2022.07*: &nbsp;🎉🎉 one paper was accepted to IEEE Trans. Image Process.(TIP).
-- *2020.12*: &nbsp;🎉🎉 one paper was accepted to AAAI2021. -->
+# 🔥 News
+
+- _2024.08_: &nbsp; I am preparing for a new business! Please stay tuned.🙌
+<!-- - _2023.12_: &nbsp;🎉 -->
+- _2022.12_: &nbsp;🎉🎉 I became to attend [Google Research](https://research.google/) ExploreCSR
+- _2020.01_: &nbsp;🔥 I am thrilled to announce that I’ve secured an internship at Samsung Electronics, C-LAB
 
 <!-- # 📝 Publications  -->
 <!-- (\* Equal Contribution) -->
