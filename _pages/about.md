@@ -49,5 +49,5 @@ The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 
 
 # 📖 Educations
 
-- _2024.09 - (now)_, Ph.D Candidate, University of Wisconsin-Madison University, Major: Computer Science
+- _2024.09 - (now)_, Ph.D Candidate, University of Wisconsin-Madison, Major: Computer Science
 - _2018.03 - 2024.02_, B.S Eng, Seoul National University, Major: Electrical & Computer Engineering.
