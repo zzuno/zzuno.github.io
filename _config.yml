@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: "Juneau Jung"
+title: "Juneau Jun"
 description: "CEO @ AllAssure"
 repository: ""
 # google_scholar_stats_use_cdn: #true
@@ -24,7 +24,7 @@ author:
   name: "Juneau Jung"
   avatar: "images/juneau.jpeg"
   bio: "Seoul National University"
-  location: "Wisconsin, US"
+  location: "Seoul, Korea"
   employer:
   pubmed:
   googlescholar: # "https://scholar.google.com/citations?user=m5CD7VYAAAAJ&hl=zh-CN"
