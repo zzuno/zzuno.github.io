@@ -67,7 +67,7 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DL</div><img src='images/uautoencoder.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[U-Autoencoder: Robust Defence Breakthrough on Adversarial Attack]\\
+[U-Autoencoder: Robust Defence Breakthrough on Adversarial Attack](papers/U-autoencoder.pdf)\\
 
 **Juneau Jung**, Geun Hyeong Ham, Woo Seok Song, Seung Chan Moon
 
