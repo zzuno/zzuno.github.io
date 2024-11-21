@@ -39,6 +39,8 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 **Juneau Jung**, Jaesuk Byun, Taesup Moon
 
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/multimodal_bandit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,12 +49,16 @@ for Movie Recommendation]\\
 
 Eungi Kim, **Juneau Jung**, Eunyi Lyou, Kwangeun Yeo
 
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLVU</div><img src='images/vpt.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Consistency Explanation for Vision Transformer]\\
 
 Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
+
+</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -62,7 +68,7 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 <!-- The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024. -->
 
 </div>
-</div>
+
 <!-- # 🎖 Honors and Awards
 - *2023.10* Tencent Scholarship, Tencent.
 - *2022.10* National Scholarship, Ministry of Education of the People's Republic of China.
