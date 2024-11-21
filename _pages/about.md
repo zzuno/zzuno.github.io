@@ -64,6 +64,16 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DL</div><img src='images/uautoencoder.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[U-Autoencoder: Robust Defence Breakthrough on Adversarial Attack]\\
+
+**Juneau Jung**, Geun Hyeong Ham, Woo Seok Song, Seung Chan Moon
+
+</div>
+</div>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
