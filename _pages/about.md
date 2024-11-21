@@ -35,7 +35,7 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNU</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Challenges on Vision Language Multi-modal model]\\
+[Challenges on Vision Language Multi-modal model](papers/multimodal.pdf)\\
 
 **Juneau Jung**, Jaesuk Byun, Taesup Moon
 
@@ -47,7 +47,7 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 <div class='paper-box-text' markdown="1">
 
 [Multi-modal Contextual Bandit
-for Movie Recommendation](papers/movierecomm.pdf)\\
+for Movie Recommendation](papers/movierecomm.pdf)
 
 Eungi Kim\*, **Juneau Jung**\*, Eunyi Lyou\*, Kwangeun Yeo\*
 
@@ -57,7 +57,7 @@ Eungi Kim\*, **Juneau Jung**\*, Eunyi Lyou\*, Kwangeun Yeo\*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLVU</div><img src='images/vpt.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Consistency Explanation for Vision Transformer](papers/vpt.pdf)\\
+[Consistency Explanation for Vision Transformer](papers/vpt.pdf)
 
 Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 
@@ -67,7 +67,7 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DL</div><img src='images/u-autoencoder.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[U-Autoencoder: Robust Defence Breakthrough on Adversarial Attack](papers/U-autoencoder.pdf)\\
+[U-Autoencoder: Robust Defence Breakthrough on Adversarial Attack](papers/U-autoencoder.pdf)
 
 **Juneau Jung**, Geun Hyeong Ham, Woo Seok Song, Seung Chan Moon
 
