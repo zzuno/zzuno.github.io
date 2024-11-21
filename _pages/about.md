@@ -32,13 +32,13 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 <!-- < (\* Equal Contribution) -->
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNU</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\\
+[Challenges on Vision Language Multi-modal model]\\
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 <!-- [Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\\ -->
 
