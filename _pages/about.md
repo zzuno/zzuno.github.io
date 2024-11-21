@@ -67,8 +67,6 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 
 <!-- The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024. -->
 
-</div>
-
 <!-- # 🎖 Honors and Awards
 - *2023.10* Tencent Scholarship, Tencent.
 - *2022.10* National Scholarship, Ministry of Education of the People's Republic of China.
