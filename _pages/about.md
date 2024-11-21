@@ -74,6 +74,16 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DL</div><img src='images/teacher forcing.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ConvLSTM based OCR breakthrougs with Teacher Forcing
+
+**Juneau Jung**
+
+</div>
+</div>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
