@@ -47,6 +47,13 @@ for Movie Recommendation]\\
 
 Eungi Kim, **Juneau Jung**, Eunyi Lyou, Kwangeun Yeo
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLVU</div><img src='vpt.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Consistency Explanation for Vision Transformer]\\
+
+Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
