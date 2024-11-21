@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My area of interest is Generative Computer Vision, as well as financial techology including Quant.
+My area of interest is Generative Computer Vision, as well as financial techology.
 
 Currently looking for innovative ideas and building a new thing. Anyone who wants to discuss about it are always welcomed !
 
@@ -39,7 +39,7 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 **Juneau Jung**, Jaesuk Byun, Taesup Moon
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='multimodal_bandit.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/multimodal_bandit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-modal Contextual Bandit
@@ -47,7 +47,7 @@ for Movie Recommendation]\\
 
 Eungi Kim, **Juneau Jung**, Eunyi Lyou, Kwangeun Yeo
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLVU</div><img src='vpt.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLVU</div><img src='images/vpt.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Consistency Explanation for Vision Transformer]\\
