@@ -39,6 +39,14 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 **Juneau Jung**, Jaesuk Byun, Taesup Moon
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='multimodal_bandit.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-modal Contextual Bandit
+for Movie Recommendation]\\
+
+Eungi Kim, **Juneau Jung**, Eunyi Lyou, Kwangeun Yeo
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
