@@ -28,17 +28,24 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 - _2022.12_: &nbsp;🎉🎉 I became to attend [Google Research](https://research.google/) ExploreCSR
 - _2020.01_: &nbsp;🔥 I am thrilled to announce that I’ve secured an internship at Samsung Electronics, C-LAB
 
-<!-- # 📝 Publications  -->
-<!-- (\* Equal Contribution) -->
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl24.png' alt="sym" width="80%"></div></div>
+# 📝 Publications
+
+<!-- < (\* Equal Contribution) -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNU</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\\
 
-**Zhe Xu**, Kun Wei, Xu Yang, Cheng Deng\\
+<!-- [Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\\ -->
 
-The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024. -->
+**Juneau Jung**, Taesup Moon\\
+
+<!-- The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024. -->
+
 <!-- </div>
 </div> -->
 
