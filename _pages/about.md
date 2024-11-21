@@ -46,9 +46,8 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 <!-- The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024. -->
 
-<!-- </div>
-</div> -->
-
+</div>
+</div>
 <!-- # 🎖 Honors and Awards
 - *2023.10* Tencent Scholarship, Tencent.
 - *2022.10* National Scholarship, Ministry of Education of the People's Republic of China.
