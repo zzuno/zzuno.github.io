@@ -74,7 +74,7 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DL</div><img src='images/teacher forcing.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ML</div><img src='images/teacher forcing.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ConvLSTM based OCR breakthrougs with Teacher Forcing
