@@ -30,6 +30,8 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 # 📝 Publications
 
+(\* Equal Contribution)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNU</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,8 +42,6 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 <!-- The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024. -->
 </div>
 </div>
-
-(\* Equal Contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/multimodal_bandit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,10 +69,11 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 
 <!-- [Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\\ -->
 
-<!-- # 🎖 Honors and Awards
-- *2023.10* Tencent Scholarship, Tencent.
-- *2022.10* National Scholarship, Ministry of Education of the People's Republic of China.
-- *2022.10* Outstanding Graduate Student, Xidian University. -->
+# 🎖 Honors and Awards
+
+- _2023.02_ Kim Tae-hyung Academic Incentives, Seoul National University.
+- _2018.03_ National Scholarship for Science and Technology, Korea Scholarship Foundation.
+- _2019.03 - 2023.02_ Outstanding Student Scholarship, Seoul National University. -->
 
 # 📖 Educations
 
