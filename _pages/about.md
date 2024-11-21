@@ -42,7 +42,7 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 <!-- [Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\\ -->
 
-**Juneau Jung**, Taesup Moon\\
+**Juneau Jung**, Jaesuk Byun, Taesup Moon
 
 <!-- The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024. -->
 
