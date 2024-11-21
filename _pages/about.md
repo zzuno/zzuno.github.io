@@ -35,7 +35,7 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNU</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Challenges on Vision Language Multi-modal model](papers/multimodal.pdf)\\
+[Challenges on Vision Language Multi-modal model](papers/multimodal.pdf)
 
 **Juneau Jung**, Jaesuk Byun, Taesup Moon
 
