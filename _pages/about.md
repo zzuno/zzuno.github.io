@@ -26,7 +26,7 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 - _2024.08_: &nbsp; I am preparing for a new business! Please stay tuned.🙌
 - _2022.12_: &nbsp;🎉🎉 I became to attend [Google Research](https://research.google/) ExploreCSR
-- _2020.01_: &nbsp;🔥 I am thrilled to announce that I’ve secured an internship at Samsung Electronics, C-LAB
+- _2020.01_: &nbsp;🔥 I am thrilled to announce that I’ve secured an internship at [Samsung Electronics](https://www.samsung.com/sec/), C-LAB
 
 # 📝 Publications
 
