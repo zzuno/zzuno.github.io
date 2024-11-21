@@ -47,7 +47,7 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 <div class='paper-box-text' markdown="1">
 
 [Multi-modal Contextual Bandit
-for Movie Recommendation]\\
+for Movie Recommendation](papers/movierecomm.pdf)\\
 
 Eungi Kim\*, **Juneau Jung**\*, Eunyi Lyou\*, Kwangeun Yeo\*
 
@@ -57,14 +57,14 @@ Eungi Kim\*, **Juneau Jung**\*, Eunyi Lyou\*, Kwangeun Yeo\*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLVU</div><img src='images/vpt.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Consistency Explanation for Vision Transformer]\\
+[Consistency Explanation for Vision Transformer](papers/vpt.pdf)\\
 
 Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DL</div><img src='images/uautoencoder.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DL</div><img src='images/u-autoencoder.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [U-Autoencoder: Robust Defence Breakthrough on Adversarial Attack](papers/U-autoencoder.pdf)\\
