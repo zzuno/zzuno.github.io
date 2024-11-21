@@ -72,10 +72,11 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 # 🎖 Honors and Awards
 
 - _2023.02_ Kim Tae-hyung Academic Incentives, Seoul National University.
+- _2019.03 - 2023.02_ Outstanding Student Scholarship, Seoul National University.
 - _2018.03_ National Scholarship for Science and Technology, Korea Scholarship Foundation.
-- _2019.03 - 2023.02_ Outstanding Student Scholarship, Seoul National University. -->
 
 # 📖 Educations
 
-- _2024.09 - (now)_, Ph.D Candidate, University of Wisconsin-Madison, Major: Computer Science
+<!-- - _2024.09 - (now)_, Ph.D Candidate, University of Wisconsin-Madison, Major: Computer Science -->
+
 - _2018.03 - 2024.02_, B.S Eng, Seoul National University, Major: Electrical & Computer Engineering.
