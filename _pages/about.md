@@ -30,7 +30,7 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 # 📝 Publications
 
-<!-- < (\* Equal Contribution) -->
+(\* Equal Contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNU</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,6 +39,7 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 **Juneau Jung**, Jaesuk Byun, Taesup Moon
 
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/multimodal_bandit.png' alt="sym" width="80%"></div></div>
@@ -50,6 +51,7 @@ for Movie Recommendation]\\
 Eungi Kim, **Juneau Jung**, Eunyi Lyou, Kwangeun Yeo
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLVU</div><img src='images/vpt.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,6 +60,7 @@ Eungi Kim, **Juneau Jung**, Eunyi Lyou, Kwangeun Yeo
 
 Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 
+</div>
 </div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
