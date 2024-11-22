@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My area of interest is Generative Computer Vision, as well as financial techology.
+My area of interest is Generative AI and it's industrial application.
 
 Currently looking for innovative ideas and building a new thing. Anyone who wants to discuss about it are always welcomed !
 
@@ -101,3 +101,15 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 <!-- - _2024.09 - (now)_, Ph.D Candidate, University of Wisconsin-Madison, Major: Computer Science -->
 
 - _2018.03 - 2024.02_, B.S Eng, Seoul National University, Major: Electrical & Computer Engineering.
+
+# 💼 Experience
+
+- _2020.01 - 2020.02_, SW Engineer Intern, [Samsung C-LAB](https://samsungclab.com)
+
+- _2023.01 - 2023.06_, BS Research Intern, ExploreCSR [Google Research](https://www.google.com/search?client=safari&rls=en&q=google+research&ie=UTF-8&oe=UTF-8)
+
+- _2023.07 - 2023.08_, SW Engineer Intern, [Samsung Electronics](https://www.samsung.com/sec/)
+
+- _2023.12 - 2024.03_, Business Development, [Greybox Inc.](https://notifly.tech)
+
+- _2024.04 - 2024.05_, Specialized Instructor, [LG Electronics](https://www.lge.co.kr)
