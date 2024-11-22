@@ -80,7 +80,7 @@ Seokhyeon Jeong, Wonkyun Kim, **Juneau Jung**
 
 ConvLSTM based OCR breakthrougs with Teacher Forcing
 
-**Juneau Jung**
+**Juneau Jung**, Sungroh Yoon
 
 </div>
 </div>
@@ -102,7 +102,7 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 
 - _2018.03 - 2024.02_, B.S Eng, Seoul National University, Major: [Electrical & Computer Engineering](https://ece.snu.ac.kr/en).
 
-# 💼 Experience
+# 💼 Experiences
 
 - _2020.01 - 2020.02_, SW Engineer Intern, [Samsung C-LAB](https://samsungclab.com)
 
