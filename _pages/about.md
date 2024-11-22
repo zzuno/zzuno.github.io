@@ -24,7 +24,8 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 
 # 🔥 News
 
-- _2024.08_: &nbsp; I am preparing for a new business! Please stay tuned.🙌
+- _2024.10_: &nbsp; I am preparing for a new business! Please stay tuned.🙌
+- _2024.03_: &nbsp; I've got accepted as a Ph.D course from [University of Wisconsin-Madison](https://www.wisc.edu)
 - _2022.12_: &nbsp;🎉🎉 I became to attend [Google Research](https://research.google/) ExploreCSR
 - _2020.01_: &nbsp;🔥 I am thrilled to announce that I’ve secured an internship at [Samsung Electronics](https://www.samsung.com/sec/), C-LAB
 
