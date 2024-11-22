@@ -92,6 +92,7 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 
 # 🎖 Honors and Awards
 
+- _2024.02_ Summa Cum Laude, Dept. of ECE, Seoul National Univeristy
 - _2023.02_ Kim Tae-hyung Academic Incentives, Seoul National University.
 - _2019.03 - 2023.02_ Outstanding Student Scholarship, Seoul National University.
 - _2018.03_ National Scholarship for Science and Technology,[Korea Scholarship Foundation](https://www.kosaf.go.kr/ko/main.do).
