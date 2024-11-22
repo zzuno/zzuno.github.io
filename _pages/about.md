@@ -94,13 +94,13 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 
 - _2023.02_ Kim Tae-hyung Academic Incentives, Seoul National University.
 - _2019.03 - 2023.02_ Outstanding Student Scholarship, Seoul National University.
-- _2018.03_ National Scholarship for Science and Technology, Korea Scholarship Foundation.
+- _2018.03_ National Scholarship for Science and Technology,[Korea Scholarship Foundation](https://www.kosaf.go.kr/ko/main.do).
 
 # 📖 Educations
 
 <!-- - _2024.09 - (now)_, Ph.D Candidate, University of Wisconsin-Madison, Major: Computer Science -->
 
-- _2018.03 - 2024.02_, B.S Eng, Seoul National University, Major: Electrical & Computer Engineering.
+- _2018.03 - 2024.02_, B.S Eng, Seoul National University, Major: [Electrical & Computer Engineering](https://ece.snu.ac.kr/en).
 
 # 💼 Experience
 
