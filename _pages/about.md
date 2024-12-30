@@ -94,7 +94,8 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 
 # 🎖 Honors and Awards
 
-- _2024.02_ Summa Cum Laude, Dept. of ECE, Seoul National Univeristy
+<!-- - _2024.02_ Summa Cum Laude, Dept. of ECE, Seoul National Univeristy -->
+
 - _2023.02_ Kim Tae-hyung Academic Incentives, Seoul National University.
 - _2019.03 - 2023.02_ Outstanding Student Scholarship, Seoul National University.
 - _2018.03_ National Scholarship for Science and Technology, [Korea Scholarship Foundation](https://www.kosaf.go.kr/ko/main.do).
@@ -107,14 +108,14 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 
 # 💼 Experiences
 
-- _2020.01 - 2020.02_, SW Engineer Intern, [Samsung C-LAB](https://samsungclab.com)
+- _2020_, SW Engineer Intern, [Samsung C-LAB](https://samsungclab.com)
 
 - _2020 - 2021_, Paramedic & Auxiliary Researcher, [National Fire Agency](https://www.nfa.go.kr/eng/) and [National Fire Research Institute](https://nfire.go.kr/index.do),
 
-- _2023.01 - 2023.06_, BS Research Intern, ExploreCSR [Google Research](https://www.google.com/search?client=safari&rls=en&q=google+research&ie=UTF-8&oe=UTF-8)
+- _2023_ , BS Research Intern, ExploreCSR [Google Research](https://www.google.com/search?client=safari&rls=en&q=google+research&ie=UTF-8&oe=UTF-8)
 
-- _2023.07 - 2023.08_, SW Engineer Intern, [Samsung Electronics](https://www.samsung.com/sec/)
+- _2023_, SW Engineer Intern, [Samsung Electronics](https://www.samsung.com/sec/)
 
-- _2023.12 - 2024.03_, Business Development, [Greybox Inc.](https://notifly.tech)
+- _2023 - 2024_, Business Development, [Greybox Inc.](https://notifly.tech)
 
-- _2024.04 - 2024.05_, Specialized Instructor, [LG Electronics](https://www.lge.co.kr)
+- _2024_, Specialized Instructor, [LG Electronics](https://www.lge.co.kr)
