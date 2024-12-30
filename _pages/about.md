@@ -112,7 +112,7 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 
 - _2020 - 2021_, Paramedic & Auxiliary Researcher, [National Fire Agency](https://www.nfa.go.kr/eng/) and [National Fire Research Institute](https://nfire.go.kr/index.do),
 
-- _2023_ , BS Research Intern, ExploreCSR [Google Research](https://www.google.com/search?client=safari&rls=en&q=google+research&ie=UTF-8&oe=UTF-8)
+- _2023_, BS Research Intern, ExploreCSR [Google Research](https://research.google/)
 
 - _2023_, SW Engineer Intern, [Samsung Electronics](https://www.samsung.com/sec/)
 
