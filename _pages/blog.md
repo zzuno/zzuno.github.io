@@ -1,9 +1,11 @@
 ---
-layout: default
-title: "Blog"
 permalink: /blog/
+title: "Blog"
 author_profile: true
+layout: default
 ---
+
+<span class='anchor' id='blog'></span>
 
 # 📝 Blog Posts
 
