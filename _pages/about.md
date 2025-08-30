@@ -42,6 +42,7 @@ Asteromorph
 
 <!-- The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024. -->
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNU</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
