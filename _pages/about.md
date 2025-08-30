@@ -18,13 +18,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My area of interest is Generative AI and it's industrial application.
+My area of interest is LLM and Vision-Text multi-modal models and their industrial application.
 
-Currently looking for innovative ideas and building a new thing. Anyone who wants to discuss about it are always welcomed !
+Currently looking for industrial utilization of LLM and Vision models. Anyone who wants to discuss about it are always welcomed !
 
 # 🔥 News
 
-- _2024.10_: &nbsp; I am preparing for a new business! Please stay tuned.🙌
+- _2025.08_: &nbsp; Asteromorph has revealed its first technical report. Please stay tuned.🙌
 <!-- - _2024.03_: &nbsp; I've got accepted as a Ph.D course from [University of Wisconsin-Madison](https://www.wisc.edu) -->
 - _2022.12_: &nbsp;🎉🎉 I became to attend [Google Research](https://research.google/) ExploreCSR
 - _2020.01_: &nbsp;🔥 I am thrilled to announce that I’ve secured an at [Samsung Electronics](https://www.samsung.com/sec/), C-LAB
@@ -32,6 +32,16 @@ Currently looking for innovative ideas and building a new thing. Anyone who want
 # 📝 Projects
 
 (\* Equal Contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/spaver_img.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spacer: Towards Engineered Scientific Inspiration](https://arxiv.org/abs/2508.17661)
+
+Asteromorph
+
+<!-- The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024. -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SNU</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,6 +93,16 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 **Juneau Jung**, Sungroh Yoon
 
 </div>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">App</div><img src='images/dopelive.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DopeLive: AI-powered Live Stream Service](https://apps.apple.com/kr/app/dope-live-stream-like-a-star/id6738138578)
+
+</div>
+
 </div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/grad_cam_juneau.png' alt="sym" width="80%"></div></div>
@@ -117,3 +137,5 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 - _2023 - 2024_, Business Development, [Greybox Inc.](https://notifly.tech)
 
 - _2024_, Specialized Instructor, [LG Electronics](https://www.lge.co.kr)
+
+- _2025_, AI Research Engineer(Manager), [Asteromorph](https://asteromorph.com/)
