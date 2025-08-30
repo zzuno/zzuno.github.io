@@ -18,8 +18,8 @@ main:
   - title: "Experiences"
     url: "/#-experiences"
 
-  # - title: "Blogs"
-  #   url: "/blog/"
+  - title: "Blogs (coming soon)"
+    url: "/blog/"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
