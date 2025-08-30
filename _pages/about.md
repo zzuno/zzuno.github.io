@@ -33,7 +33,7 @@ Currently looking for industrial utilization of LLM and Vision models. Anyone wh
 
 (\* Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/spaver_img.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/spacer_img.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spacer: Towards Engineered Scientific Inspiration](https://arxiv.org/abs/2508.17661)
