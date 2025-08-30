@@ -97,7 +97,7 @@ ConvLSTM based OCR breakthrougs with Teacher Forcing
 
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">App</div><img src='images/dopelive.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">App</div><img src='images/dopelive_downsample.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DopeLive: AI-powered Live Stream Service](https://apps.apple.com/kr/app/dope-live-stream-like-a-star/id6738138578)
