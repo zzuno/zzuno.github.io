@@ -19,7 +19,7 @@ main:
     url: "/#-experiences"
 
   - title: "Blogs (coming soon)"
-    url: "/blog/"
+    url: "/#about-me"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
